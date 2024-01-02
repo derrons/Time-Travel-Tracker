@@ -1,0 +1,25 @@
+Time Travel Manager Project
+
+This project is to create a website that will allow a person to start their daily time tracking for their routes i.e. FedEx, repair man, etc.
+They will need to start and end their day from a home location.
+Throughout their day they will need to check in to each location that they visit. 
+The app will use their location information to log their arrival and they will need to check out when they leave.
+If they do not check out and attempt to check in, we do not alert them, but we flag the entry so that management can address them.
+The site will have to register a new user and create an account and password and sets a home location.
+I want you to create a NoSql and SQL backend for the project. When starting the project, you should be able to select it in the config file. 
+The website will only use API calls to the back end and will only use Json web tokens we can allow the backend to manage the web tokens through an API
+
+Future enhancements
+Automatic location detection
+reporting
+
+
+Objects
+User:
+Id(unique), Email (unique), first name, last name, home site address
+
+Travel Entries:
+Id, address, time utc, entry type [start, end, arrive, leave]
+
+Json web token payload should have:
+User name, user id, 
