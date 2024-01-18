@@ -1,0 +1,134 @@
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\appsettings.json
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Tavel Tracker API.exe
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Tavel Tracker API.deps.json
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Tavel Tracker API.runtimeconfig.json
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Tavel Tracker API.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Tavel Tracker API.pdb
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.DownstreamApi.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.csproj.AssemblyReference.cache
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.AssemblyInfoInputs.cache
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.AssemblyInfo.cs
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.csproj.CoreCompileInputs.cache
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.sourcelink.json
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets\msbuild.Tavel Tracker API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets\msbuild.build.Tavel Tracker API.props
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tavel Tracker API.props
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tavel Tracker API.props
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\scopedcss\bundle\Tavel Tracker API.styles.css
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.csproj.CopyComplete
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\refint\Tavel Tracker API.dll
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.pdb
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.genruntimeconfig.cache
+C:\Users\derro\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\ref\Tavel Tracker API.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\appsettings.json
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Tavel Tracker API.exe
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Tavel Tracker API.deps.json
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Tavel Tracker API.runtimeconfig.json
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Tavel Tracker API.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Tavel Tracker API.pdb
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Dapper.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.DownstreamApi.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.csproj.AssemblyReference.cache
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.AssemblyInfoInputs.cache
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.AssemblyInfo.cs
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.csproj.CoreCompileInputs.cache
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.sourcelink.json
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets\msbuild.Tavel Tracker API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets\msbuild.build.Tavel Tracker API.props
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tavel Tracker API.props
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tavel Tracker API.props
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\scopedcss\bundle\Tavel Tracker API.styles.css
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.csproj.CopyComplete
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\refint\Tavel Tracker API.dll
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.pdb
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\Tavel Tracker API.genruntimeconfig.cache
+C:\Users\derro\OneDrive\Documents\GitHub\Time-Travel-Tracker\Tavel Tracker API\Tavel Tracker API\obj\Debug\net8.0\ref\Tavel Tracker API.dll
